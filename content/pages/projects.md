@@ -31,7 +31,7 @@ Matthew Cohen ([WMV](/ans7870/4/4.A21/f06/projects/mattco/mattco.wmv))
 2005 Projects
 -------------
 
-Credit List ({{< resource_link ec192f2c-d7ca-7534-a24b-55c99c0fae7f "PDF" >}})
+Credit List ({{% resource_link ec192f2c-d7ca-7534-a24b-55c99c0fae7f "PDF" %}})
 
 Inessa Liskovich - [MIT Campus](/ans7870/4/4.A21/f05/projects/inessa/index.htm)
 
