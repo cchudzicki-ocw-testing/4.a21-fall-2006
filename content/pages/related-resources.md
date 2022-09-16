@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains tips to take great travel photos, Anne Spirn's
+  class, Alex MacLean, Camilo  Jose Vergara, Dorothea Lange and MIT public art and
+  architecture collection.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
